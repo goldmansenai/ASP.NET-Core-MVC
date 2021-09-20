@@ -31,7 +31,7 @@
 - [GIT](https://git-scm.com/)
 - [Docker](https://www.docker.com/)
 
-## Primeiros passos
+## Iniciando
 ### Lembrando que para conseguir editar esse projeto será preciso do Git, SDK do dotnet e um editor de código fonte (VScode)
 
 Clone o repositório em sua máquina
