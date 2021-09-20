@@ -1,19 +1,18 @@
 # Crud em ASP.NET Core no modelo MVC
 
-## Sumário
-<!--ts-->
-   * [Sobre](#Sobre)
-   * [Status do projeto](#Status do projeto)
-   * [Tecnologias](#Tecnologias)
-   * [Requisitos](#Requisitos)
-   * [Primeiros passos](#Primeiros passos)
-   * [Features](#Features)
-<!--te-->
-
 ## Status do projeto
 <h2 align="center"> 
 	:white_check_mark: Crud ASP.NET Core MVC 🚀 Completo :white_check_mark:
 </h2>
+
+## Sumário
+<!--ts-->
+   * [Sobre](#Sobre)
+   * [Tecnologias](#Tecnologias)
+   * [Requisitos](#Requisitos)
+   * [Primeiros passos](#PrimeirosPassos)
+   * [Features](#Features)
+<!--te-->
 
 ## Sobre
 <h4> Projeto seguindo a documentação da microsoft para a criação de um gerenciador de filmes, no modelo Crud (Criar, Editar, Deletar e Visualizar) em arquitetura MVC </h4>
