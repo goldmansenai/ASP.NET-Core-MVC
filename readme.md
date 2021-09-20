@@ -10,7 +10,7 @@
    * [Sobre](#Sobre)
    * [Tecnologias](#Tecnologias)
    * [Requisitos](#Requisitos)
-   * [Primeiros passos](#Primeiros passos)
+   * [Primeiros passos](#Primeirospassos)
    * [Features](#Features)
 <!--te-->
 
@@ -18,14 +18,12 @@
 <h4> Projeto seguindo a documentação da microsoft para a criação de um gerenciador de filmes, no modelo Crud (Criar, Editar, Deletar e Visualizar) em arquitetura MVC </h4>
 
 ## Tecnologias
-<p align="center>
 	![badge](https://img.shields.io/badge/C%23-C%20Sharp-7159c1)
 	![badge](https://img.shields.io/badge/.NET-ASP.NET%20Core-7159c1)
 	![badge](https://img.shields.io/badge/JS-JavaScript-7159c1)
 	![badge](https://img.shields.io/badge/Docker-Dockerfile-7159c1)
 	![badge](https://img.shields.io/badge/AWS-Ubuntu%20Server-7159c1)
 	![badge](https://img.shields.io/badge/Docker-Dockerfile-7159c1)
-</p>
 
 ## Requisitos
 :hammer_and_wrench: Para realização desse projeto foram utilizados:
